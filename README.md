@@ -1,12 +1,13 @@
 # Sales-Shop
 Program Algorithm
-Write a program algorithm for this shop.
+
+A program algorithm for this shop.
  
-  Your program or programs must include appropriate prompts for the entry of data; data must be validated on entry.
+ The program or programs must include appropriate prompts for the entry of data; data must be validated on entry.
   Error messages and other output need to be set out clearly and understandably.
   All arrays, variables, constants and other identifiers must have meaningful names.
  
-You will need to complete these three tasks.
+Complete these three tasks.
  
 Task 1 – Setting up the system.
 Write a program to:
